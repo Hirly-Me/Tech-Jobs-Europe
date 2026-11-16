@@ -4,7 +4,7 @@
 
 Open software engineering and data jobs located in the EU, the UK, Switzerland or Norway.
 
-**11,163 open jobs** match this list today; the newest 250 are below, newest first. Last updated Nov 15, 2026.
+**11,163 open jobs** match this list today; the newest 250 are below, newest first. Last updated Nov 16, 2026.
 
 > **Get matched to these jobs.** Upload your resume on [hirly](https://hirly.me/?utm_source=github&utm_medium=joblist&utm_campaign=tech-jobs-europe&utm_content=cta) to see how it matches roles like these.
 
